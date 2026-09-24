@@ -1,0 +1,26 @@
+[
+  {
+    "enhet": "Enhet 1",
+    "avdelning": "Avdelning 1",
+    "platserTotal": 10,
+    "patienter": 5,
+    "platserKvar": 5,
+    "datum": "2025-01-20"
+  },
+  {
+    "enhet": "Enhet 2",
+    "avdelning": "Avdelning 1",
+    "platserTotal": 5,
+    "patienter": 5,
+    "platserKvar": 0,
+    "datum": "2025-01-20"
+  },
+  {
+    "enhet": "Enhet 2",
+    "avdelning": "Avdelning 2",
+    "platserTotal": 10,
+    "patienter": 4,
+    "platserKvar": 6,
+    "datum": "2025-01-20"
+  }
+]
